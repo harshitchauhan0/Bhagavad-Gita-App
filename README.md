@@ -1,0 +1,1 @@
+This mobile application aims to provide users with a comprehensive resource for accessing chapters and verses from the Bhagavad Gita. It offers both Hindi and English translations of the chapters and shlokas (verses), enabling users to explore the spiritual teachings of the Bhagavad Gita conveniently on their mobile devices.
