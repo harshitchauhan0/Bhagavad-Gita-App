@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bhagwat Geeta App</string>
+    <string name="title">श्रीमद्भगवद्गीता</string>
+    <string name="summary">Summary:</string>
+    <string name="shlok">Shlok :</string>
+    <string name="chapter">Chapter</string>
+    <string name="explanation">Explanation :</string>
+    <string name="shlok_no">Shlok No -</string>
+</resources>
